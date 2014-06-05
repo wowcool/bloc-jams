@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"aDate"
+			],
+			[
+				"ad",
+				"aDateMillis"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"three",
+				"threeDaysFromNow"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"to",
+				"toLocaleString"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"seac",
+				"searchTerm"
+			],
+			[
+				"text",
+				"textToSearch"
+			],
+			[
+				"search",
+				"searchTerm"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"parse",
+				"parseThis"
+			],
+			[
+				"curre",
+				"currentClass"
+			],
+			[
+				"cu",
+				"currentClass"
+			],
+			[
+				"pa",
+				"parseThis"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"this",
+				"thisSpan"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"span",
+				"spanDelete"
+			],
+			[
+				"color",
+				"colorItem"
+			],
+			[
+				"colors",
+				"colors"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"co",
+				"color2"
+			],
+			[
+				"add",
+				"addTodosToPage"
+			],
+			[
+				"s",
+				"submitButton"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"remo",
+				"removeItem"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"fav",
+				"favGenre"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"tweet",
+				"tweetParsed"
+			],
+			[
+				"twee",
+				"tweetsFragment"
+			],
+			[
+				"tweets",
+				"tweetsFragment"
+			],
+			[
+				"twe",
+				"tweets"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"se",
+				"setAttreibute"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"du",
+				"dueDate"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"todo",
+				"todoItem"
+			],
+			[
+				"json",
+				"jsonParsed"
+			],
+			[
+				"status",
+				"statusList"
+			],
+			[
+				"jesse",
+				"jesseParsed"
+			],
+			[
+				"jess",
+				"jesseParsed"
+			],
+			[
+				"pick",
+				"picklesJSON"
+			],
+			[
+				"pet",
+				"petsArrayJSON"
+			],
+			[
+				"p",
+				"pickels"
+			],
+			[
+				"close",
+				"closeBoxTrigger"
+			],
+			[
+				"closeB",
+				"closeBoxTrigger"
+			],
+			[
+				"box",
+				"boxCount"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"rndom",
+				"randomID"
+			],
+			[
+				"dis",
+				"displayInfo"
+			],
+			[
+				"click",
+				"clickyBox"
+			],
+			[
+				"all",
+				"allBoxes"
+			],
+			[
+				"clear",
+				"clearButton"
+			],
+			[
+				"random",
+				"randomID"
+			],
+			[
+				"numer",
+				"numberOfBoxes"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"number",
+				"numberOfBoxes"
+			],
+			[
+				"new",
+				"newBox"
+			],
+			[
+				"generate",
+				"generateButton"
+			],
+			[
+				"y",
+				"yCord"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"form",
+				"formValue"
+			],
+			[
+				"item",
+				"itemList"
+			],
+			[
+				"old",
+				"oldImageParent"
+			],
+			[
+				"image",
+				"imagePath"
+			],
+			[
+				"d",
+				"div2"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"sele",
+				"selectedItems"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"oc",
+				"oceanSpan"
+			],
+			[
+				"lan",
+				"landscapeSpan"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"movie",
+				"movielist"
+			],
+			[
+				"person",
+				"personalityArray"
+			],
+			[
+				"pers",
+				"personablityArray"
+			],
+			[
+				"the",
+				"theForm"
+			],
+			[
+				"update",
+				"updateRating"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"gen",
+				"genre"
+			],
+			[
+				"des",
+				"descriptionTextArea"
+			],
+			[
+				"genre",
+				"genre"
+			],
+			[
+				"tit",
+				"titleInput"
+			],
+			[
+				"submit",
+				"submitButton"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"previous",
+				"previousMode"
+			],
+			[
+				"mode",
+				"modeObject"
+			],
+			[
+				"pre",
+				"previousMode"
+			],
+			[
+				"current",
+				"currentMode"
+			],
+			[
+				"replace",
+				"replaceLikes"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"pe",
+				"petlikes"
+			],
+			[
+				"upd",
+				"updaterating"
+			],
+			[
+				"rating",
+				"ratingButton"
+			],
+			[
+				"upda",
+				"updateRating"
+			],
+			[
+				"up",
+				"updateRating"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"mo",
+				"movieLoop"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"showin",
+				"showingWhen"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"show",
+				"showtimes"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 209.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/vagrant/frontend-javascript-exercises/frontend-javascript-exercises/04-strings/00-basics/challenge.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant/bloc-jams/Questions-For-Matt.jade",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/date-time/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/date-time/date-time.js",
+		"/Users/JTSeaver/Desktop/index backup ",
+		"/Users/JTSeaver/Desktop/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/sftp-config.json",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/todo/todo.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/exceptions/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/strings/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/todo/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/todo/todo.css",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L7-01.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L7-01.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L8-OB-1.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L6-OB-1.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L6-OB-1-JSON.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L6-OB-1.json",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L6-OB-1.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L6-01.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L6-01.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/todo/todo.json",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/todo/save.php",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/photoviewer/photos.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Json & Ajax/L1-01.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Json & Ajax/intro.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/twitter/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/twitter/twitter.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L1-01.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L3-01.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/twitter/twitter.json",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/jsonajax/L3-01.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/final/final.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/final/final.css",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/random.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/final/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab16-objective1--b.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab16-objective1--a.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab13-objective1--a.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab15-objective2--a.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/playingwithnodes.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/photoviewer/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/photoviewer/photoviewer.css",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab15-objective1--a.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/photoviewer/javascript-styling.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/DIFF/1.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/DIFF/2.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/DIFF/3.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab11-objective--e.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab11-objective2--c.html",
+		"/Users/JTSeaver/Desktop/function switchMode(newMode) {.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab11-objective2--b.html",
+		"/Users/JTSeaver/Desktop/modes-for-stephen-2.html",
+		"/Users/JTSeaver/Desktop/random-stephen.html",
+		"/Users/JTSeaver/Desktop/modes-for-stephen.html",
+		"/Users/JTSeaver/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant/bloc-jams/public/stylesheets/app.css",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant/bloc-jams/express/views/test.jade",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant/bloc-jams/express/views/user.jade",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab11-objective.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant/bloc-jams/express/views/practice.jade",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant/bloc-jams/express/views/jesseseaver",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab11-objective--b.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/random.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab10-objective-constructor.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/lab10-objective.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/download/Scratch.plist",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/download/stylesheets/theme.css",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/stylesheets/fonts.css",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/stylesheets/theme.css",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/sftp-config.json",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/Drake Coker/www.scrathvinyl.com/getinthegroove/index.html",
+		"/Users/JTSeaver/Desktop/test",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/parsechat.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/scripts/jscolor/demo.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/L2-Objective1.html",
+		"/Users/JTSeaver/Desktop/2",
+		"/Users/JTSeaver/Desktop/1",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript/guessinggame.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/mc-success2.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/mc-success.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/success.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/css/base.min.css",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/css/base.css",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/index.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/L8-Objective1.html",
+		"/Users/JTSeaver/Documents/WORK SET/Various Web/GFFmag/gffmag.com/splash/js/jquery.nicescroll.js",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/L6-Objective-2.html",
+		"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/L6-Objective-1.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/Orielly/Modern Javascript",
+			"/Users/JTSeaver/Documents/WORK SET/1 SCHOOL/2014 Training/BLOC/bloc-vagrant"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"spanDone",
+			"span",
+			"deleteItem",
+			"getFormData",
+			"theForm",
+			"span",
+			"todos",
+			"todoItem",
+			"todoArray",
+			"todoJSON",
+			"tilla",
+			"quote",
+			"javascript",
+			"77",
+			"selectedindex",
+			"radio",
+			"grey-background orange-text",
+			"download",
+			"tilla",
+			"pickles",
+			"tilla",
+			"h1 { font-sze",
+			"65px",
+			"sentence",
+			"Sentence",
+			"sentence"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 202.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"L2-Objective1.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
